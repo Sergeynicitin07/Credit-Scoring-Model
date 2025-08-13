@@ -1,0 +1,15 @@
+# Временные файлы Jupyter
+.ipynb_checkpoints/
+.DS_Store
+
+# Сохраненные модели
+*.pkl
+
+
+# data/
+
+# Кэш-файлы Python
+__pycache__/
+
+# Локальные переменные окружения
+.env
